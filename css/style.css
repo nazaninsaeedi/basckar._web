@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'kalameh';
-  src: url('./fonts/TTF/Kalameh-Light.ttf');
+  src: url('../fonts/TTF/Kalameh-Light.ttf');
 }
 
 * {
